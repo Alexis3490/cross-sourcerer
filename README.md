@@ -45,4 +45,5 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 # Modify the variable in envorinement react
 
-modify the file .env.development
+modify the file .env.development with url api and token
+
